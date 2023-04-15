@@ -43,15 +43,27 @@ The model is a star schema.
 ## Visualization
 
 The report comprises of 2 pages
-1. Transactions
+
+### Transactions
 
 ![](transaction.PNG)
 
-2. Product
+### Product
 
 ![](product.PNG)
 
-You can intereact with the report [here] (https://app.powerbi.com/groups/me/reports/26450221-14a6-4ff0-b202-b8239ec46ea6/ReportSection)
+You can interact with the report [here] (https://app.powerbi.com/groups/me/reports/26450221-14a6-4ff0-b202-b8239ec46ea6/ReportSection)
+
+## Conclusion and recommendation
+
+- Sales of certain products might be seasonal and various store manager should ensure they fill the store with the appropriate product for the right season.
+- Total profit made from 1.92Million sales is 224,000.
+
+## Recomendation
+
+The datasets from prior years will be needed for comparison and data-driven decision making during a deep dive analytics.
+
+
 
 
 
