@@ -1,1 +1,59 @@
-#Introduction
+# Supermarket Analysis
+
+![](Intro.jpg)
+
+## Introduction:
+
+This is a Power Bi project on transactions and Product category analysis of an adopted mart called **Supermarket**.
+The goal of this project is to analyse data, generate insights, and assist in the data-driven decision-making process.
+
+**_Disclaimer**_: All datasets lack accuracy, they do not fairly reflect any organisation, institution, or nation_.
+
+## Problem statement:
+
+1. What are the top 5 products that generate the most revenue for supermarket?
+
+2. Which top 5 products the supermarket lost the most revenue from?
+
+3. What is the sales performace by each manager?
+
+4. How much money did the company make overall in the first half of the year? (Jan-June)
+
+## Skill/ Concept demonstrated:
+
+The following power Bi features were incorporated:
+- Transform data, 
+- Dax, 
+- Quick measures, 
+- Page navigation, 
+- Modelling, 
+- Filter.
+
+## Modelling:
+
+Automatically generated relationships are modified to remove undesirable ties and replace them with those that are necessary.
+
+Adjusted Model           | Auto Model
+:-----------------------:|:-----------------------: 
+![](Adjusted_Model.png)  |   ![](Auto_Model.png)
+
+
+The model is a star schema.
+
+## Visualization
+
+The report comprises of 2 pages
+1. Transactions
+
+![](Data_Visualization.PNG)
+
+2. Product
+
+![](Product_Visual.PNG)
+
+You can intereact with the report here
+
+
+
+
+
