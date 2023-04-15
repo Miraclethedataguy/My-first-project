@@ -35,7 +35,7 @@ Automatically generated relationships are modified to remove undesirable ties an
 
 Adjusted Model           | Auto Model
 :-----------------------:|:-----------------------: 
-![](Adjusted_Model.png)  |   ![](Auto_Model.png)
+![](adjusted.png)  |   ![](auto.png)
 
 
 The model is a star schema.
@@ -45,13 +45,13 @@ The model is a star schema.
 The report comprises of 2 pages
 1. Transactions
 
-![](Data_Visualization.PNG)
+![](transaction.PNG)
 
 2. Product
 
-![](Product_Visual.PNG)
+![](product.PNG)
 
-You can intereact with the report here
+You can intereact with the report [here] (https://app.powerbi.com/groups/me/reports/26450221-14a6-4ff0-b202-b8239ec46ea6/ReportSection)
 
 
 
