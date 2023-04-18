@@ -58,12 +58,14 @@ You can interact with the report [here] (https://app.powerbi.com/groups/me/repor
 
 ### _Insight_
 
-- Three of the top five profitable products were office supply products.
+- Three of the top five profitable products were office supplies category.
 
 - None of the top 5 loss products are in the office supplies category.
 
 - Office supplies make up 57% of the three product categories that were ordered (technology, furniture, and office supplies).
 Therefore, throughout the sales period for which this study was conducted, office supplies received the most orders.
+
+- 
 
 ### _Recomendation_
 
