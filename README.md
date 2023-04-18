@@ -54,14 +54,21 @@ The report comprises of 2 pages
 
 You can interact with the report [here] (https://app.powerbi.com/groups/me/reports/26450221-14a6-4ff0-b202-b8239ec46ea6/ReportSection)
 
-## Conclusion and recommendation
+## Insight and recommendation
 
-- Sales of certain products might be seasonal and various store manager should ensure they fill the store with the appropriate product for the right season.
-- Total profit made from 1.92Million sales is 224,000.
+### _Insight_
 
-## Recomendation
+-Three of the top five profitable products were office supply products.
 
-The datasets from prior years will be needed for comparison and data-driven decision making during a deep dive analytics.
+- None of the top 5 loss products are in the office supplies category.
+
+- Office supplies make up 57% of the three product categories that were ordered (technology, furniture, and office supplies).
+Therefore, throughout the sales period for which this study was conducted, office supplies received the most orders.
+
+
+### _Recomendation_
+
+
 
 
 
