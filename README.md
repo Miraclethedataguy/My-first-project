@@ -50,7 +50,7 @@ The report comprises of 2 pages
 
 ### Product
 
-![](product.PNG)
+![](prod.png)
 
 You can interact with the report [here] (https://app.powerbi.com/groups/me/reports/26450221-14a6-4ff0-b202-b8239ec46ea6/ReportSection)
 
