@@ -65,9 +65,15 @@ You can interact with the report [here] (https://app.powerbi.com/groups/me/repor
 - Office supplies make up 57% of the three product categories that were ordered (technology, furniture, and office supplies).
 Therefore, throughout the sales period for which this study was conducted, office supplies received the most orders.
 
-- 
+- However, office supplies were the least popular category among the three product categories in terms of sales.
+- Furniture came in at 34%, technology at 37%, and office supplies at 29%.
 
-### _Recomendation_
+- Despite having the highest order volume, office supplies have the lowest sales of all the product categories.
+
+
+### _Recomendation_ 
+
+Office supplies were the most ordered but the least sold goods in the product categories, according to the final analysis. I advise the various managers to look into why office supplies, which had the greatest order rate of 57%, weren't ultimately converted to sales. 
 
 
 
